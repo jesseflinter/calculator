@@ -60,4 +60,3 @@ If expanding this project, I would:
 3. Include educational tooltips about calculation limitations
 4. Consider adding a "report issue" feature for mathematical errors
 
-The complete ethical statement would be included in the project's README.md file on GitHub along with the license information to ensure users understand the intended use cases and limitations of this software.
